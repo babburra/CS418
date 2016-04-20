@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (flightSimulator.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  teapot.cpp
+c:\users\yutong\desktop\cs418\cs418_mp3_ywang443\flightsimulator\teapot.cpp(24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\yutong\desktop\cs418\cs418_mp3_ywang443\flightsimulator\teapot.cpp(27): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\yutong\desktop\cs418\cs418_mp3_ywang443\flightsimulator\teapot.cpp(29): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\yutong\desktop\cs418\cs418_mp3_ywang443\flightsimulator\teapot.cpp(73): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\yutong\desktop\cs418\cs418_mp3_ywang443\flightsimulator\teapot.cpp(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\yutong\desktop\cs418\cs418_mp3_ywang443\flightsimulator\teapot.cpp(61): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  flightSimulator.vcxproj -> C:\Users\Yutong\Desktop\CS418\cs418_mp3_ywang443\x64\Debug\teapot.exe
